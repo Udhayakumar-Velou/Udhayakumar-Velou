@@ -1,48 +1,145 @@
-<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="winGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#161616"/>
-      <stop offset="100%" stop-color="#0d0d0d"/>
-    </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
-    </filter>
-  </defs>
+<!-- Terminal-window header (custom animated SVG, lives in /assets) -->
+<p align="center">
+  <img src="assets/terminal-header.svg" width="700" alt="Terminal header" />
+</p>
 
-  <rect x="10" y="10" width="740" height="200" rx="14" fill="url(#winGrad)" stroke="#2a2a2a" stroke-width="1" filter="url(#softShadow)"/>
+---
 
-  <rect x="10" y="10" width="740" height="40" rx="14" fill="#1a1a1a"/>
-  <rect x="10" y="36" width="740" height="14" fill="#1a1a1a"/>
+### 🚀 About me
 
-  <circle cx="34" cy="30" r="6" fill="#FF5F56"/>
-  <circle cx="54" cy="30" r="6" fill="#FFBD2E"/>
-  <circle cx="74" cy="30" r="6" fill="#27C93F"/>
+- 🎓 MSc Software Engineering & Data Science @ ESILV Paris
+- 🔭 Repositioning from full-stack dev → Data Science / ML Engineering
+- 🎯 Actively looking for a **6-month internship** in Data Science / ML
+- 🧠 Recent work: Credit Risk Modeling (Scikit-learn, FastAPI, MLflow, Docker)
+- 🌱 Currently exploring: MLOps, NLP, and secure software development
+- 📫 Reach me: udhayakumar2352001@gmail.com | [LinkedIn](https://www.linkedin.com/in/udhayakumar-velou-758723172)
 
-  <text x="380" y="35" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6e6e6e">udhaya@github: ~</text>
+---
 
-  <text font-family="JetBrains Mono, Consolas, monospace" font-size="19" fill="#39FF88">
-    <tspan x="34" y="90">
-      <tspan fill="#6e6e6e">$ </tspan>whoami
-      <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.4s" fill="freeze"/>
-    </tspan>
-  </text>
+### 🛠️ Tech Stack
 
-  <text font-family="JetBrains Mono, Consolas, monospace" font-size="19" fill="#e8e8e8" opacity="0">
-    <tspan x="34" y="120">Udhayakumar Velou</tspan>
-    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
-  </text>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker,vue,nestjs,postgres,git,java,spring" />
+</p>
 
-  <text font-family="JetBrains Mono, Consolas, monospace" font-size="19" fill="#39FF88" opacity="0">
-    <tspan x="34" y="152"><tspan fill="#6e6e6e">$ </tspan>cat role.txt</tspan>
-    <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.4s" fill="freeze"/>
-  </text>
+---
 
-  <text font-family="JetBrains Mono, Consolas, monospace" font-size="19" fill="#e8e8e8" opacity="0">
-    <tspan x="34" y="182">full-stack dev <tspan fill="#39FF88">→</tspan> data scientist</tspan>
-    <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.4s" fill="freeze"/>
-  </text>
+### 📊 GitHub Stats
 
-  <rect x="34" y="196" width="11" height="18" fill="#39FF88" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="3.4s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Udhayakumar-Velou&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayakumar-Velou&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayakumar-Velou&theme=radical&hide_border=true" width="60%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Udhayakumar-Velou&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udhayakumar-Velou&theme=redical&hide_border=true&area=true" width="90%" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+> Live "currently playing" widget — needs a one-time ~10 min setup (deploying a small free service). Shows an animated bar with whatever track you're playing right now, falls back to your last played track otherwise.
+
+<p align="center">
+  <img src="https://novatorem-orpin-two.vercel.app/api/spotify" />
+</p>
+
+**Setup steps:**
+1. Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) → create an app → note the **Client ID** and **Client Secret**. Set the redirect URI to `https://developer.spotify.com/callback`.
+2. Visit this URL (replace `YOUR_CLIENT_ID`), log in, and copy the `code` param from the redirected URL:
+   `https://accounts.spotify.com/authorize?client_id=YOUR_CLIENT_ID&response_type=code&redirect_uri=https://developer.spotify.com/callback&scope=user-read-currently-playing,user-read-recently-played`
+3. Exchange that `code` for a **refresh token** (there's a step-by-step guide in the [novatorem/spotify-github-profile README](https://github.com/novatorem/spotify-github-profile)).
+4. Fork [novatorem/spotify-github-profile](https://github.com/novatorem/spotify-github-profile), deploy it to [Vercel](https://vercel.com) (free), and add `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` as environment variables in your Vercel project settings.
+5. Once deployed, replace the image URL above with `https://YOUR-VERCEL-PROJECT.vercel.app/api/spotify`.
+
+---
+
+### 🎵 My Playlist
+
+> A static, clickable card for a specific playlist — click the cover to open it in Spotify. (Note: this is different from "Now Playing" above — it doesn't update live, it's just a nice badge for a playlist you want to showcase.)
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4RYa7DVhzcL1BXby733p6j">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20to%20my%20playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+This one's genuinely fun: a snake "eats" your green contribution squares and moves automatically every day via GitHub Actions.
+
+1. Create `.github/workflows/snake.yml` in this repo with the workflow below.
+2. It generates an SVG and commits it to an `output` branch automatically.
+3. Embed it here once generated (placeholder below).
+
+```yaml
+name: generate animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then embed it here:
+
+```markdown
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Udhayakumar-Velou/Udhayakumar-Velou/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Udhayakumar-Velou/Udhayakumar-Velou/output/github-contribution-grid-snake.svg" />
+</picture>
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,100:FFD700&height=100&section=footer" />
+</p>
