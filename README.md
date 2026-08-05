@@ -5,8 +5,8 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+---
 
-`udhaya@portfolio:~/tech-stack$`
 ### About
  
 ```yaml
