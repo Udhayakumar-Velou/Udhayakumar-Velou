@@ -49,6 +49,48 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Udhayakumar-Velou&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udhayakumar-Velou&theme=redical&hide_border=true&area=true" width="90%" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+> Setup needed (~10 min, one-time) — see below. Once done, this shows a live animated bar with the track you're currently playing (or your last played track).
+
+<p align="center">
+  <img src="https://novatorem-orpin-two.vercel.app/api/spotify" />
+</p>
+
+**Setup steps:**
+1. Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) → create an app → note the **Client ID** and **Client Secret**. Set the redirect URI to `https://developer.spotify.com/callback`.
+2. Visit this URL (replace `YOUR_CLIENT_ID`), log in, and copy the `code` param from the redirected URL:
+   `https://accounts.spotify.com/authorize?client_id=YOUR_CLIENT_ID&response_type=code&redirect_uri=https://developer.spotify.com/callback&scope=user-read-currently-playing,user-read-recently-played`
+3. Exchange that `code` for a **refresh token** (there's a step-by-step guide in the [novatorem/spotify-github-profile README](https://github.com/novatorem/spotify-github-profile)).
+4. Fork [novatorem/spotify-github-profile](https://github.com/novatorem/spotify-github-profile), deploy it to [Vercel](https://vercel.com) (free), and add `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` as environment variables in your Vercel project settings.
+5. Once deployed, replace the image URL above with `https://YOUR-VERCEL-PROJECT.vercel.app/api/spotify`.
+
+---
+
 ### 🐍 Contribution Snake
 
 This one's genuinely fun: a snake "eats" your green contribution squares and moves automatically every day via GitHub Actions.
