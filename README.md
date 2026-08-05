@@ -3,6 +3,7 @@
   <img src="assets/terminal-header.svg" width="700" alt="Terminal header" />
 </p>
 
+### About
 
 ```yaml
 role: MSc Data Science & Computer Science @ ESILV Paris
