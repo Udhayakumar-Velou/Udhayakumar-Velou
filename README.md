@@ -6,10 +6,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 
-<blockquote>
-<code>&gt; output</code><br>
-<b>Currently Learning</b>
-</blockquote>
+`udhaya@portfolio:~/tech-stack$`
 ### About
  
 ```yaml
