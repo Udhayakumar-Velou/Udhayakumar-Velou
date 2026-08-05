@@ -3,7 +3,7 @@
   <img src="assets/terminal-header.svg" width="700" alt="Terminal header" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=gradient&customColorList=0" width="100%"/>
 
 ### About
  
