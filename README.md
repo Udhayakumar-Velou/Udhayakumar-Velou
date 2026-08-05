@@ -28,28 +28,38 @@ contact:
 ---
 ### 🛠️ Tech Stack
 
-**Languages & ML**
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
 </p>
 
-**Backend & Infra**
+**Machine Learning & Data**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,spring,postgres,docker,git" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
 </p>
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css" />
 </p>
 
-**Currently exploring**
+**Backend**
 <p align="left">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-4B8BBE?style=flat" />
-  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+**MLOps / DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,pytest,git" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
