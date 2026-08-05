@@ -4,17 +4,15 @@
 </p>
 
 
-### about
- 
-<pre>
-role: MSc Data Science &amp; Computer Science @ ESILV Paris
+```yaml
+role: MSc Data Science & Computer Science @ ESILV Paris
 transition: full-stack dev -> data scientist / ML engineer
 recent_project: Credit Risk Modeling System (Scikit-learn, FastAPI, MLflow, Docker)
 currently_learning: [MLOps, NLP, secure software development]
 contact:
   email: udhayakumar2352001@gmail.com
-  linkedin: <a href="https://www.linkedin.com/in/udhayakumar-velou-758723172/">udhayakumar-velou-758723172</a>
-</pre>
+```
+<samp>&nbsp;&nbsp;linkedin: <a href="https://www.linkedin.com/in/udhayakumar-velou-758723172/">udhayakumar-velou-758723172</a></samp>
  
 ---
 
