@@ -63,10 +63,9 @@ contact:
 </p>
 
 ---
-
- 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Udhayakumar-Velou&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" width="49%" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&card_width=395" width="49%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&card_width=395" width="49%" />
 </p>
