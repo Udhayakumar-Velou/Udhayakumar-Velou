@@ -4,7 +4,7 @@
 </p>
 
 ### About
-
+ 
 ```yaml
 role: MSc Data Science & Computer Science @ ESILV Paris
 transition: full-stack dev -> data scientist / ML engineer
