@@ -14,8 +14,26 @@ contact:
   email: udhayakumar2352001@gmail.com
 ```
 <samp>&nbsp;&nbsp;linkedin: <a href="https://www.linkedin.com/in/udhayakumar-velou-758723172/">udhayakumar-velou-758723172</a></samp>
- 
+
+
 ---
+ ### 🎧 Now Playing on Spotify
+
+> Live "currently playing" widget. One-time setup, ~5 min with the button below.
+
+<p align="center">
+  <img src="https://novatorem-orpin-two.vercel.app/api/spotify" />
+</p>
+
+**Setup (3 steps):**
+1. Get a Spotify **refresh token** — the fastest way is [spotify-refresh-token-generator.vercel.app](https://spotify-refresh-token-generator.vercel.app) (create a free app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) first, use redirect URI `https://spotify-refresh-token-generator.vercel.app/callback`, then paste your Client ID/Secret into the generator — it hands you the refresh token directly).
+2. Click below to deploy the widget with your credentials as env vars:
+
+   [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/novatorem/spotify-github-profile&env=SPOTIFY_CLIENT_ID,SPOTIFY_CLIENT_SECRET,SPOTIFY_REFRESH_TOKEN)
+
+3. Once deployed, replace the image URL above with `https://YOUR-PROJECT-NAME.vercel.app/api/spotify`.
+---
+
 
 ### 🛠️ Tech Stack
 
