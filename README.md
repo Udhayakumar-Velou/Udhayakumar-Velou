@@ -19,11 +19,12 @@ contact:
 
 ---
  
-### 🎧 Now Playing on Spotify
+### 🎧 Currently listening to 
  
 <p align="center">
   <img src="https://novatorem-two-phi-43.vercel.app/api/orchestrator" />
 </p>
+
 ---
 
 ### 🛠️ Tech Stack
