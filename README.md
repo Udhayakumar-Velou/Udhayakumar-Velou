@@ -68,7 +68,3 @@ contact:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&card_width=500" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayakumar-Velou&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="60%" />
-</p>
