@@ -3,19 +3,25 @@
   <img src="assets/terminal-header.svg" width="700" alt="Terminal header" />
 </p>
 
+
+---
+ 
 ### about
  
 ```yaml
-role: MSc Software Engineering & Data Science @ ESILV Paris
+role: MSc Data Science & Computer Science @ ESILV Paris
 transition: full-stack dev -> data scientist / ML engineer
-looking_for: 6-month internship, Data Science / ML
 recent_project: Credit Risk Modeling System (Scikit-learn, FastAPI, MLflow, Docker)
 currently_learning: [MLOps, NLP, secure software development]
 contact:
   email: udhayakumar2352001@gmail.com
-  linkedin: udhayakumar-velou-758723172
 ```
  
+<p align="center">
+  <a href="https://www.linkedin.com/in/udhayakumar-velou-758723172/">
+    <img src="https://img.shields.io/badge/-LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Tech Stack
