@@ -1,18 +1,9 @@
-<!-- Animated wave header -->
+<!-- Minimal terminal-style header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF4B4B&height=200&section=header&text=Hi,%20I'm%20Udhaya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <sub>&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢</sub>
 </p>
-
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4B4B&center=true&vCenter=true&width=500&lines=I+write+code.;Sometimes+it+works.;99%25+debugging%2C+1%25+typing.;Currently+hunting+a+data+science+internship." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udhayakumar-Velou&label=Profile%20Views&color=FF4B4B&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Debugging...-yellow?style=flat&logo=codeforces" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=900&color=39FF88&background=00000000&center=true&vCenter=true&width=560&lines=%24+whoami;Udhayakumar+Velou;full-stack+dev+%E2%86%92+data+scientist;%24+status+--current;hunting+a+6-month+ML%2FDS+internship;%24+_" alt="Typing SVG" />
 </p>
 
 ---
