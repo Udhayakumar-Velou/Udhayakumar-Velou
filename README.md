@@ -3,17 +3,19 @@
   <img src="assets/terminal-header.svg" width="700" alt="Terminal header" />
 </p>
 
----
-
-### 🚀 About me
-
-- 🎓 MSc Software Engineering & Data Science @ ESILV Paris
-- 🔭 Repositioning from full-stack dev → Data Science / ML Engineering
-- 🎯 Actively looking for a **6-month internship** in Data Science / ML
-- 🧠 Recent work: Credit Risk Modeling (Scikit-learn, FastAPI, MLflow, Docker)
-- 🌱 Currently exploring: MLOps, NLP, and secure software development
-- 📫 Reach me: udhayakumar2352001@gmail.com | [LinkedIn](https://www.linkedin.com/in/udhayakumar-velou-758723172)
-
+### about
+ 
+```yaml
+role: MSc Software Engineering & Data Science @ ESILV Paris
+transition: full-stack dev -> data scientist / ML engineer
+looking_for: 6-month internship, Data Science / ML
+recent_project: Credit Risk Modeling System (Scikit-learn, FastAPI, MLflow, Docker)
+currently_learning: [MLOps, NLP, secure software development]
+contact:
+  email: udhayakumar2352001@gmail.com
+  linkedin: udhayakumar-velou-758723172
+```
+ 
 ---
 
 ### 🛠️ Tech Stack
