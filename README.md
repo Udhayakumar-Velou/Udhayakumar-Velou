@@ -75,7 +75,7 @@
 
 ### 🎧 Now Playing on Spotify
 
-> Setup needed (~10 min, one-time) — see below. Once done, this shows a live animated bar with the track you're currently playing (or your last played track).
+> Live "currently playing" widget — needs a one-time ~10 min setup (deploying a small free service). Shows an animated bar with whatever track you're playing right now, falls back to your last played track otherwise.
 
 <p align="center">
   <img src="https://novatorem-orpin-two.vercel.app/api/spotify" />
@@ -88,6 +88,18 @@
 3. Exchange that `code` for a **refresh token** (there's a step-by-step guide in the [novatorem/spotify-github-profile README](https://github.com/novatorem/spotify-github-profile)).
 4. Fork [novatorem/spotify-github-profile](https://github.com/novatorem/spotify-github-profile), deploy it to [Vercel](https://vercel.com) (free), and add `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` as environment variables in your Vercel project settings.
 5. Once deployed, replace the image URL above with `https://YOUR-VERCEL-PROJECT.vercel.app/api/spotify`.
+
+---
+
+### 🎵 My Playlist
+
+> A static, clickable card for a specific playlist — click the cover to open it in Spotify. (Note: this is different from "Now Playing" above — it doesn't update live, it's just a nice badge for a playlist you want to showcase.)
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4RYa7DVhzcL1BXby733p6j">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20to%20my%20playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
