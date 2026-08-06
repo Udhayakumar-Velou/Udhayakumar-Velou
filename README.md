@@ -19,13 +19,10 @@ contact:
 ```
 <samp>&nbsp;&nbsp;linkedin: <a href="https://www.linkedin.com/in/udhayakumar-velou-758723172/">udhayakumar-velou-758723172</a></samp>
 
----
  
-### 🎧 Currently listening to 
- 
-<p align="center">
-  <img src="https://novatorem-two-phi-43.vercel.app/api/orchestrator" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://novatorem-two-phi-43.vercel.app/api/orchestrator" /> -->
+<!-- </p> -->
 
 ---
 ### Tech Stack
