@@ -52,7 +52,7 @@ contact:
 
 **MLOps / DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,pytest,git" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
 </p>
 
 **Databases**
