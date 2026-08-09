@@ -24,14 +24,6 @@ contact:
   <!-- <img src="https://novatorem-two-phi-43.vercel.app/api/orchestrator" /> -->
 <!-- </p> -->
 ---
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&card_width=500" />
-</p>
-
----
-
 ### Tech Stack
 
 **Languages**
@@ -67,5 +59,14 @@ contact:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
+
+---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&card_width=500" />
+</p>
+
+---
 
 
