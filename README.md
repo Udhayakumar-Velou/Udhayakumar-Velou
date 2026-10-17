@@ -36,6 +36,30 @@ open_to: [AI/ML engineering opportunities, Data projects, collaborations]
 
 ---
 
+### `$ git stats --me`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&card_width=500" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udhayakumar-Velou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayakumar-Velou&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&hide=C%23,ShaderLab,Swift,SCSS" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff41/Udhayakumar-Velou" width="100%" />
+</p>
+
+---
+
+<!-- Animated terminal footer (custom SVG, lives in /assets) -->
+<p align="center">
+  <img src="assets/terminal-footer.svg" width="700" alt="Terminal footer" />
+</p>
+
+---
+
 ### `$ ls ~/tech-stack`
 
 **languages**
@@ -76,24 +100,4 @@ open_to: [AI/ML engineering opportunities, Data projects, collaborations]
 
 ---
 
-### `$ git stats --me`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Udhayakumar-Velou&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&card_width=500" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udhayakumar-Velou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhayakumar-Velou&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&hide=C%23,ShaderLab,Swift,SCSS" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff41/Udhayakumar-Velou" width="100%" />
-</p>
-
----
-
-<!-- Animated terminal footer (custom SVG, lives in /assets) -->
-<p align="center">
-  <img src="assets/terminal-footer.svg" width="700" alt="Terminal footer" />
-</p>
